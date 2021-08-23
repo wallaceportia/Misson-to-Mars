@@ -32,3 +32,5 @@ Robin an astronomy enthusiast has a creative plan to fufill her dreams to work f
 ###### Make it Pretty
 
 ###### Mars Hemipheres
+
+![Mars_Hemispheres](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Mars_Hemispheres.PNG)
