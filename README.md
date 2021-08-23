@@ -19,7 +19,9 @@ Robin an astronomy enthusiast has a creative plan to fufill her dreams to work f
 * Full resolution images of Mars Hemisphere and Titles were also added to the webapp 
 * Mobile responsive: Bootstrap elements were also employed to ensure that the that the app could be viewed from any mobile device. The "Grid Template" was used in order to produce thumnail images that work with both full screen and mobile device viewing. (See Section "Mars Hemispheres")
 
-###### Scraping New
+###### Scraping News
+
+![Scraping_Data_Button](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/WebScraping_Button.PNG)
 
 ###### Make it Pretty
 
