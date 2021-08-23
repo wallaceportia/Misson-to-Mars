@@ -29,6 +29,9 @@ Robin an astronomy enthusiast has a creative plan to fufill her dreams to work f
 
 ![Mars_Media_Close-ups](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Latest_News_Media_Close_Up.PNG)
 
+* Featured Images
+![Featured_Mars_Image](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Featured_Images.PNG)
+
 ###### Make it Pretty
 
 ###### Mars Hemipheres
