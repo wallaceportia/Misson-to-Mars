@@ -27,7 +27,7 @@ Robin an astronomy enthusiast has a creative plan to fufill her dreams to work f
 
 ![Examples_of_Latest_News](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Latest_News_Stargazing.PNG)
 
-
+![Mars_Media_Close-ups](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Latest_News_Media_Close_Up.PNG)
 
 ###### Make it Pretty
 
