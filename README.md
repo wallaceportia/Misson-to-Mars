@@ -29,11 +29,12 @@ Robin an astronomy enthusiast has a creative plan to fufill her dreams to work f
 ![Mars_Media_Close-ups](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Latest_News_Media_Close_Up.PNG)
 
 * Featured Images
+
 ![Featured_Mars_Image](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Featured_Images.PNG)
 
 ###### Make it Pretty
 
-* ![Scraping_Data_Button](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/WebScraping_Button.PNG)
+![Scraping_Data_Button](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/WebScraping_Button.PNG)
 
 * Mars Facts
 
@@ -43,7 +44,7 @@ Robin an astronomy enthusiast has a creative plan to fufill her dreams to work f
 
 ![Mars_Hemispheres](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Mars_Hemispheres.PNG)
 
-* View from Smart Device
+* Mars Smart View
 
 ![Mars_Smart_View](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Responsive_Smartphone.PNG)
 
