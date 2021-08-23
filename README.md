@@ -9,7 +9,7 @@
 * Python libraries: html5lib and lxml
 
 ## Overview of Project
-Robin an astronomy enthusiast has a creative plan to fufill her dreams to work for NASA.  With my help Robin will create a database using web scrapping to gather the latest news feature, with stunning pictures o the mysterious red planet "Mars". Beautiful Soup and Splinter will facilitate automating the scrape. Mongo will be used to store all the amazing data. The collected  data will be displayed  on a webapplication using Flask.  This centralized display will facilitate viewing by other astronomy enthusiast and also become a major part of Robin portfolio.
+Robin an astronomy enthusiast has a creative plan to fufill her dreams to work for NASA.  With my help Robin will create a database using web scrapping to gather the latest news feature, with stunning images of the mysterious red planet "Mars". Beautiful Soup and Splinter will facilitate automating the scrape. Py-Mongo will be used to store all the amazing data. The collected  data will be displayed  on a web application using Flask.  This centralized display will facilitate viewing by other astronomy enthusiasts and also become a major part of Robin portfolio.
 
 ## Results
 * Web app with interactive "Scrape New Data" button, this feature automatically searches for the latest news with images to display on the web app.(See Section "Scraping News")
