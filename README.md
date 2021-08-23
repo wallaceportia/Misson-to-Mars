@@ -33,7 +33,13 @@ Robin an astronomy enthusiast has a creative plan to fufill her dreams to work f
 ![Featured_Mars_Image](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Featured_Images.PNG)
 
 ###### Make it Pretty
+* View from Smath Device
+*
 
 ###### Mars Hemipheres
 
 ![Mars_Hemispheres](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Mars_Hemispheres.PNG)
+* View from Smart Device
+
+![Mars_Smart_View](https://github.com/wallaceportia/Misson-to-Mars/blob/main/Resources/Responsive_Smartphone.PNG)
+* Hover Table
